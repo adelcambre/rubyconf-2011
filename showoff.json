@@ -1,3 +1,7 @@
 { "name": "RubyConf 2011", "sections": [
-  {"section":"01_intro"}
+    {"section":"01_intro"}
+  , {"section":"02_develop"}
+  , {"section":"03_test"}
+  , {"section":"04_deploy"}
+  , {"section":"05_conclusion"}
 ]}

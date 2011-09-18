@@ -22,6 +22,11 @@
 * Describe Units
 * Describe Ensemble
 
+## EyBot
+* HTTP Endpoints
+* Small Library
+* Ensemble doesn't talk to the bot, it's just one of the endpoints
+
 ## An aside about CI
 * CI is simple
 * Just a job runner, basically

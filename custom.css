@@ -53,6 +53,10 @@ span.callout {
   color: #f479d8 !important;
 }
 
+span.strikethrough {
+  text-decoration: line-through;
+}
+
 .fullscreen {
   margin: 0;
 }
